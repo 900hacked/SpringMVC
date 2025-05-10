@@ -1,0 +1,8 @@
+frenchBeans\SpringMvcValidation\Service\LandValidator.class
+frenchBeans\SpringMvcValidation\App.class
+frenchBeans\SpringMvcValidation\DAO\LandDAO.class
+frenchBeans\SpringMvcValidation\DAO\LandDAOImpli.class
+frenchBeans\SpringMvcValidation\Service\LandServiceImpli.class
+frenchBeans\SpringMvcValidation\Service\LandService.class
+frenchBeans\SpringMvcValidation\Controller\LandController.class
+frenchBeans\SpringMvcValidation\model\Land.class
